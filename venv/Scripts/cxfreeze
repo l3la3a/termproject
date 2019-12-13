@@ -1,0 +1,6 @@
+#!C:\Users\092101010210\PycharmProjects\burgershoot\venv\Scripts\python.exe
+
+from cx_Freeze import main
+
+main()
+

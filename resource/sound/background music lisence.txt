@@ -1,0 +1,10 @@
+MainTheme : Captive Protal - You Can Use
+character select : Komiku - Home
+intro : Komiku - School
+scoreboard : Komiku - Mushrooms
+outtro : Komiku - Gloglou
+
+
+free license (only not commercial)
+
+freemusicarchive.org
